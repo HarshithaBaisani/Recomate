@@ -10,7 +10,7 @@ Harshitha (Team Lead)
 Managed the team and ensured smooth project execution.
 Conducted Exploratory Data Analysis (EDA) and worked on raw data analysis for building strong AI foundations.
 
-Teja (UI/UX Designer)
+Tejaswini siva sindhu (UI/UX Designer)
 Designed a user-friendly interface ensuring every page is intuitive and easy to use.
 Built frontend with HTML and CSS for seamless user interaction.
 
